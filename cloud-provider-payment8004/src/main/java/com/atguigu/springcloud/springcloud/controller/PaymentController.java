@@ -24,3 +24,4 @@ public class PaymentController {
         return "springcloud with zookeeper: "+serverPort+"\t"+ UUID.randomUUID().toString();
     }
 }
+
